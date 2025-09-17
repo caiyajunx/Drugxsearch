@@ -30,8 +30,8 @@
 
 - **⚙️ 便捷的配置管理**:
   - 支持一键**导出和导入配置文件** (`.json`格式)。方便您在不同设备间迁移配置，或与他人分享您的AI模型和搜索引擎设置。
-
-<img width="816" height="2980" alt="AI搜索配置中心" src="https://github.com/user-attachments/assets/43ae55fc-993e-43de-aefd-9db5719750a3" />
+    
+<img width="2135" height="1011" alt="AI搜索配置中心" src="https://github.com/user-attachments/assets/b77be875-006a-411c-b370-6cf58a5610d8" />
 
 ## 🚀 如何开始
 
