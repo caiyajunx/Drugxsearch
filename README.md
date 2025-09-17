@@ -2,7 +2,7 @@
 
 一个纯前端、注重隐私、高度可定制的AI研究工具。您只需输入一个复杂问题，AI Agent便会自动为您完成**智能规划、多源搜索、筛选分析、并综合成一份精炼的研究报告**。
 
-<img width="1805" height="3690" alt="AI搜索结果" src="https://github.com/user-attachments/assets/4bf205c9-5771-4caa-b91d-c92ad538620e" />
+<img width="1425" height="1156" alt="AI搜索结果 " src="https://github.com/user-attachments/assets/7889e7a4-11a5-4ad5-80ab-4994a680e4e0" />
 
 ## ✨ 核心功能
 
